@@ -4,9 +4,5 @@
   
 ![image](https://github.com/user-attachments/assets/21bfd5d3-ecee-4c31-80d4-fc252d84e888)
 
-- DAPLink (SWD)	STM32H755ZI (JTAG/SWD)	Description
-- VCC (3.3V)	VDD	Power supply reference
-- GND	GND	Ground connection
-- SWCLK	SWCLK (Pin PA14)**	Serial Wire Clock
-- SWDIO	SWDIO (Pin PA13)**	Serial Wire Data
-- NRST (optional)	NRST	Reset pin (optional)
+![image](https://github.com/user-attachments/assets/8ec067ec-3b3c-4c38-a886-0b818a2c8ba2)
+
